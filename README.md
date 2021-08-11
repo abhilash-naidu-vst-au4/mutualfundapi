@@ -9,5 +9,5 @@ Styling: [Material UI](https://material-ui.com/)
 API : [API](https://prr7fx7sh0.execute-api.ap-south-1.amazonaws.com/dev/pten/funds")
 
 
-Color Palette : background #fafafa 
-                Navbar #6a26cd
+Color Palette  [#fafafa](https://via.placeholder.com/15/f03c15/000000?text=+) `#fafafa`
+               [#6a26cd](https://via.placeholder.com/15/f03c15/000000?text=+) `#6a26cd`
